@@ -67,6 +67,9 @@ h4, p {
     margin-left: 10px; /* h4 と p を同じ位置に */
 }
 
+li {
+    padding: 5px;
+}
 
 
 
