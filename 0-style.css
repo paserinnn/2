@@ -60,16 +60,14 @@ h1 {
 }
 
 h3 {
-    margin: 10px;
+    margin-left: -10px; /* h3 を少し左へ移動（数値は調整） */
 }
 
-h4 {
-    font-weight: 20px;
+h4, p {
+    margin-left: 10px; /* h4 と p を同じ位置に */
 }
 
-li {
-    margin: 10px;
-}
+
 
 
 
