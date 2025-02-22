@@ -10,6 +10,7 @@
 .subtittle {
     font-size: 18px;
     font-weight: 100;
+    margin: 10px;
 }
 
 /* カラーパレット */
@@ -64,7 +65,8 @@ h3 {
 }
 
 h4, p {
-    margin-left: 20px; /* h4 と p を同じ位置に */
+    padding-left: 20px;
+    margin:5px ;
 }
 
 li {
